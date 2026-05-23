@@ -56,7 +56,7 @@ redteam setup                   # configure coder's settings
 redteam gateway start           # start coder's gateway
 redteam doctor                  # check coder's health
 redteam skills list             # list coder's skills
-redteam config set model.default deepseek/deepseek  # set default model
+redteam config set model.default deepseek/deepseek-v4-pro  # set default model
 ```
 
 ## Update
