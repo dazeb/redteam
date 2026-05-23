@@ -1,6 +1,6 @@
 # redteam-profile
 
-Opinionated Hermes profile for red team work.
+Opinionated Hermes scenario bundle for the ai-supply-chain-lab red team workflow.
 
 ## What this distribution includes
 

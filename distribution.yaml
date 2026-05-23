@@ -1,6 +1,6 @@
 name: redteam-profile
-version: 1.0.0
-description: "Opinionated red team Hermes profile with security-focused workflows, curated skills, and hardened defaults"
+version: 1.0.1
+description: "Opinionated red team Hermes scenario bundle with the skills, workflows, and defaults used in the ai-supply-chain-lab"
 author: "Darren"
 license: "MIT"
 hermes_requires: ">=0.12.0"
