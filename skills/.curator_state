@@ -1,9 +1,0 @@
-{
-  "last_report_path": "/home/dazeb/.hermes/profiles/redteam/logs/curator/20260523-083443",
-  "last_run_at": "2026-05-23T08:34:43.292694+00:00",
-  "last_run_duration_seconds": 2.589267,
-  "last_run_summary": "auto: no changes; llm: skipped (no candidates)",
-  "last_run_summary_shown_at": null,
-  "paused": false,
-  "run_count": 1
-}
