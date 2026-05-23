@@ -2,6 +2,8 @@
 
 Opinionated Hermes scenario bundle for the ai-supply-chain-lab red team workflow.
 
+Includes everything for the hermes redteam profile. Supply Chain Scenario setup https://github.com/dazeb/ai-supply-chain-lab
+
 ## What this distribution includes
 
 - SOUL.md
