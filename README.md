@@ -1,4 +1,4 @@
-# redteam-profile
+# hermes redteam profile for autonomous workflow.
 
 Opinionated Hermes scenario bundle for the ai-supply-chain-lab red team workflow.
 
